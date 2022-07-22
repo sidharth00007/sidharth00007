@@ -9,6 +9,8 @@ Full Stack Web Developer
 * 🧠  I'm learning React and its components
 * 🤝  I'm open to collaborating on MERN Stack Projects and OpenSource Projects
 
+![](https://komarev.com/ghpvc/?username=sidharth00007)
+
 ### Skills
 
 <p align="left">
