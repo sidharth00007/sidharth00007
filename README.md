@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [siddy070@gmail.com](mailto:siddy070@gmail.com)
+* ✉️  You can contact me at [siddy00700@gmail.com](mailto:siddy00700@gmail.com)
 * 🧠  I'm learning React and its components
 * 🤝  I'm open to collaborating on MERN Stack Projects and OpenSource Projects
 
